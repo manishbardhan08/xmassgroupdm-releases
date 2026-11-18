@@ -1,6 +1,6 @@
 {
-  "latest": "1.1.0",
-  "min_supported": "1.0.0",
+  "latest": "1.2.0",
+  "min_supported": "1.2.0",
   "url": "https://github.com/manishbardhan08/xmassgroupdm-releases/releases/download/v1.1.0/XMassGroupDM.exe",
   "sha256": "65FF8A09D09ABEAD1CDA58865927135F6A8A9C63D7A381798806B83386B91A9A",
   "notes": "version 1.1.0",
